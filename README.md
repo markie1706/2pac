@@ -1,2 +1,2 @@
 # 2pac
-Support locaterfor forex markets coded in mql5.
+Support locater for forex markets coded in mql5.
